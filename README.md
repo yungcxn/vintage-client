@@ -69,3 +69,4 @@ MouseDelayFix
 
 AccountLogin
 
+Optifine Cape Changer
