@@ -9,34 +9,63 @@ vintage client
 
 ## features
 BerinCape
+
 PogBerin
 
+
+
 Coords
+
 CPS
+
 EffectDisplay
+
 FPS
+
 MLGHelper
 
+
 AutoRP
+
 AutoTNT
+
 Detector
+
 FastChat
+
 FastRespawn
+
 Teams
 
+
 NoJumpDelay
+
 ToggleSprint
 
+
 BorderlessFullscreen
+
 BoxDisplay
+
 ChestESP
+
 Fullbright
+
 MotionBlur
+
 NoHarvest
+
 Particles
+
 SheepTimer
 
+
+
 1.7 Animationen
+
 RP Organizer
+
 MouseDelayFix
+
 AccountLogin
+
