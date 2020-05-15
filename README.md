@@ -70,3 +70,7 @@ MouseDelayFix
 AccountLogin
 
 Optifine Cape Changer
+
+MemoryFix
+
+Fast RP Loading
