@@ -1,1 +1,2 @@
-https://github.com/yungcxn/vintage-client/raw/ee758ddb1bab1d93b1ce8012646b8aca5bc64671/lib/discord-rpc.dll
+https://raw.githubusercontent.com/yungcxn/vintage-client/master/lib/discord-rpc.dll
+https://raw.githubusercontent.com/yungcxn/vintage-client/master/lib/test.dll
